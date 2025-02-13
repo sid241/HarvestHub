@@ -68,9 +68,5 @@ Harvest Hub is a mobile application built using **Flutter** and **Firebase** to 
 - **Multilingual Support** for better accessibility
 
 ---
-## Contributors
-- [Your Name](https://github.com/your-profile)
-
----
 ## License
 This project is licensed under the **MIT License**.
